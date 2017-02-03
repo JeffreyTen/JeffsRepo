@@ -25,11 +25,11 @@
 	<h1>This is a big header!</h1>
 	<p>Here is a paragraph with lots of information about this cool new PHP site! 
 	Here is some more info about this site!</p>
-	
+	<p>Jeffrey's new code</p>
     <article>
         <h3><?php pageTitle(); ?></h3>
         <?php pageContent(); ?>
-        <p>Jeffrey's new code</p>
+        
     </article>
 
     <footer><small>&copy;<?php echo date('Y'); ?> <?php siteName(); ?>. All rights reserved.</small></footer>
