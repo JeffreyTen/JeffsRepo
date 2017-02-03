@@ -27,7 +27,9 @@
 	Here is some more info about this site!</p>
 	<p>Jeffrey's new code</p>
 	<p>More PHP code</p>
-	
+	<p>even more code</p>
+	<p>even more code</p>
+	<p>even more code</p>
     <article>
         <h3><?php pageTitle(); ?></h3>
         <?php pageContent(); ?>
