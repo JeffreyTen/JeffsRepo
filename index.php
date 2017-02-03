@@ -29,6 +29,7 @@
     <article>
         <h3><?php pageTitle(); ?></h3>
         <?php pageContent(); ?>
+        <p>Jeffrey's new code</p>
     </article>
 
     <footer><small>&copy;<?php echo date('Y'); ?> <?php siteName(); ?>. All rights reserved.</small></footer>
